@@ -5,5 +5,5 @@ Feature: Continuous integration check of the project
   So that we have a reliable base on which to build our acceptance tests
 
   Scenario: Check project is working
-    Given I open the home page
-     Then I expect to be on the home page
+    Given I open the start page
+     Then I expect to be on the start page

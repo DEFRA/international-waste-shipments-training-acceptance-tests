@@ -15,7 +15,7 @@ Acceptance tests for the International waste shipments training service
 
 By default, it is set up to run tests using the `npm test` command.
 
-You can also lint your code with `npm run lint`.
+You can also lint your code with `npm run lint` or `npm run lint-fix` to auto correct.
 
 ## This repo includes:
 
