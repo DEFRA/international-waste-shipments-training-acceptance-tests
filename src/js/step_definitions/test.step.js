@@ -7,5 +7,5 @@ Given('I open the home page', function() {
 
 Then('I expect to be on the home page', function() {
   var title = browser.getTitle()
-  expect(title).to.equal('Example Domain');
+  expect(title).to.equal('International Waste Shipments - Training - GOV.UK');
 })

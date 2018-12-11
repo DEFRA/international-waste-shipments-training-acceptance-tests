@@ -39,4 +39,4 @@ node_modules
 
 *.xml
 
-./errorShots
+errorShots/
